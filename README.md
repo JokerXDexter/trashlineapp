@@ -1,0 +1,2 @@
+# trashlineapp
+Aplikasi TrashLine Flutter

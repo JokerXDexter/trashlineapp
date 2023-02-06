@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535323894577",
+    "project_id": "trashline-d06b5",
+    "storage_bucket": "trashline-d06b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535323894577:android:4d3ac2d21364c761ccc610",
+        "android_client_info": {
+          "package_name": "com.tubes.trashline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535323894577-hrqlnmveqooh7342k8sa4igr86phrm1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoUPXMss4veSAJti6Xo96WZDciLabUnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535323894577-hrqlnmveqooh7342k8sa4igr86phrm1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
